@@ -7,4 +7,6 @@ exit 1
 lscpu
 lsblk
 unamen-r
+
+iostat
 fi
